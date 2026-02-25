@@ -1,1 +1,5 @@
 
+int x = 12;
+String y = "hallo";
+String z = y+x;
+System.out.println (z);
